@@ -23,6 +23,14 @@
       "price": "25.90",
       "available": false,
       "image": "https://storage.googleapis.com/golden-wind/bootcamp-gostack/desafio-food/food3.png"
+    },
+    {
+      "image": "https://upload.wikimedia.org/wikipedia/commons/3/31/Pizza_mezzo_a_mezzo.jpg",
+      "name": "Italiana",
+      "price": "30.11",
+      "description": "Teste",
+      "available": true,
+      "id": 4
     }
   ]
 }
